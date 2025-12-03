@@ -28,7 +28,7 @@ pkg install python git -y
 git clone https://github.com/ariyanopu/Ip-Tracker
 cd Ip-Tracker
 
-python iptrack.py
+python ip-track.py
 ```
 
 ---
