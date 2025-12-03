@@ -25,7 +25,7 @@ Developer: **ARIYAN MIRZA**
 pkg update -y && pkg upgrade -y
 pkg install python git -y
 
-git clone https://github.com/ariyanopu/Ip-Tracker
+git clone https://github.com/ariyanopu/Ip-Tracker.git
 cd Ip-Tracker
 
 python ip-track.py
